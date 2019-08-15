@@ -1,6 +1,6 @@
 ## 秒熊app
 
-秒熊是一款短视频学习app，目前主要用于外语学习,https://pandalanguages.xyz 作为信息流产品形态，秒熊希望成为阿里云智能推荐的成功产品样本。
+秒熊是一款短视频学习app，目前主要用于外语学习,[https://pandalanguages.xyz](https://pandalanguages.xyz) 作为信息流产品形态，秒熊希望成为阿里云智能推荐的成功产品样本。
 
 
 ### 阿里推荐算法参数需求
