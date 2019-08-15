@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## 秒熊app
 
-You can use the [editor on GitHub](https://github.com/dengtongtongtong/miaoxiong/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+秒熊是一款短视频学习app，目前主要用于外语学习,http://pandalanguages.xyz 作为信息流产品形态，秒熊希望成为阿里云智能推荐的成功产品样本。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+阿里推荐引擎参数需求
 
 ```markdown
+- 对观看过的视频内容对应tag再一批请求更实时返回。比如当前用户对NBA标签内容完播(目前因为只支持点击行为，我们将完播事件处理为点击行为推送给airecommed)后在同一用户下一次请求时能继续推送NBA标签内容。
+- 设置标签权重，一个视频可能有多个标签，不同标签可能会表示不同权重最为相关推荐依据。
+- 调试API,可以获取item或者user在智能引擎中的数据状态。
 Syntax highlighted code block
 
 # Header 1
