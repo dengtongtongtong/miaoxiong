@@ -32,5 +32,6 @@
 - 确认内容通过SDK上下线(修改status)后是否及时正确生效
 - 确认视频热度更新后(behavior中click/stay值)对物品热度的影响
 - 确认新视频获得的曝光比率，目前自行测试
+- 对同一物品划分多个维度
 
 *vx:backdoorkeeper*
