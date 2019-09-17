@@ -53,7 +53,8 @@
 - 次日留存数据，behavior type: collect 权重设置
 - 新视频权重问题
 - 推荐排序问题
-![alt text](Screen Shot 2019-09-17 at 3.26.31 PM.png)
+- ![alt text](https://github.com/dengtongtongtong/miaoxiong/blob/master/Screen%20Shot%202019-09-17%20at%203.26.31%20PM.png?raw=true)
+- ![alt text](https://github.com/dengtongtongtong/miaoxiong/blob/master/Screen%20Shot%202019-09-17%20at%203.22.49%20PM.png?raw=true)
 
 ### 上线前的需求
 - 确认内容通过SDK上下线(修改status)后是否及时正确生效
