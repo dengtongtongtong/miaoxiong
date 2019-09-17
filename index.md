@@ -49,6 +49,8 @@
 > 可以
 - traceinfo为空时怎么办？
 > 不强制回传
+- 站外数据存放: item feature字段
+- 次日留存数据，behavior type: collect, 权重
 
 ### 上线前的需求
 - 确认内容通过SDK上下线(修改status)后是否及时正确生效
