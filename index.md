@@ -49,6 +49,7 @@
 > 可以
 - traceinfo为空时怎么办？
 > 不强制回传
+- 相同用户每日会推荐昨日已推荐过的视频
 - 站外数据存放: item feature 字段
 - 次日留存数据，behavior type: collect 权重设置
 - 新视频权重问题
